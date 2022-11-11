@@ -5,7 +5,7 @@ An analysis of 9 terrorist attack networks across various countries such as Afgh
 
 Team Members:</br>
 Aditya Sharma - 19Z303 </br>
-Priyadharshini - 19Z339 </br>
+Priyadharshini J - 19Z339 </br>
 Rishika V - 19Z341 </br>
 Swetha M - 19Z355 </br>
 Chandhini B - 19Z364 </br>
